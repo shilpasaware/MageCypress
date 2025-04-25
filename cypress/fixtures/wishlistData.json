@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Olivia 1/4 Zip Light Jacket",
+      "size": "S",
+      "color": "Blue"
+    },
+    {
+      "name": "Juno Jacket",
+      "size": "M",
+      "color": "Purple"
+    }
+  ],
+  "shipping": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "street1": "123 Main St",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10001",
+    "country": "United States",
+    "phone": "5551234567"
+  },
+  "userData": {
+    "email": "wishlist12@gmail.com",
+    "password": "test@12312"
+  }
+}

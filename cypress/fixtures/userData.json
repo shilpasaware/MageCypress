@@ -1,0 +1,9 @@
+{
+  "firstName": "Reviewer",
+  "lastName": "Check",
+  "email": "ReviewerTest@gmail.com",
+  "password": "test@12312",
+  "successRegistrationMessage": "Thank you for registering with Main Website Store.",
+  "loginMessage": "Welcome,",
+  "requiredErrorMessage": "This is a required field."
+}
