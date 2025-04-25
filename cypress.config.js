@@ -3,7 +3,7 @@ module.exports = defineConfig({
   
   e2e: {
     baseUrl: 'https://magento.softwaretestingboard.com',
-    //pageLoadTimeout: 120000, // ⏰ Increase timeout
+    //pageLoadTimeout: 120000, // Increase timeout
     setupNodeEvents(on, config) {
       // implement node event listeners here
       require('cypress-mochawesome-reporter/plugin')(on);
