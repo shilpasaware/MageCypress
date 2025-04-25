@@ -105,4 +105,4 @@ This will open the Cypress Test Runner interface where you can select and run sp
 ## Dependencies
 - cypress
 - cypress-mochawesome-reporter
-- cypress-xpath
+- cypress-xpath# MageCypress
