@@ -1,7 +1,7 @@
 {
   "firstName": "Reviewer",
   "lastName": "Check",
-  "email": "ReviewerTest@gmail.com",
+  "email": "ReviewerTest12@gmail.com",
   "password": "test@12312",
   "successRegistrationMessage": "Thank you for registering with Main Website Store.",
   "loginMessage": "Welcome,",
